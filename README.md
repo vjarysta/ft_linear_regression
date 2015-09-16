@@ -12,3 +12,5 @@ The trainer will create a file named _data_thetas.csv_.
 
 ### Guess a feature
 ```./run_predictor [data_thetas.csv]``` will ask you your first column value, then return the feature value.
+
+## Made by [vjarysta](https://github.com/vjarysta) & [gsaynac](https://github.com/gsaynac)
